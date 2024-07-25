@@ -1,5 +1,5 @@
 .carrossel__titulo {
-    color: ColorValue( "#dc143c" )
+    color: var(--laranja);
     background-color: var(--branco);
     text-align: center;
     text-transform: uppercase;
